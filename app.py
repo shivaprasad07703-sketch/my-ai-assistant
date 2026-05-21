@@ -10,7 +10,7 @@ HEADERS = {"Authorization": f"Bearer {HF_TOKEN}"}
 
 # Free Open-Source Models on Hugging Face
 #/runwayml/stable-diffusion-v1-5
-TEXT_MODEL_URL =  "https://api-inference.huggingface.co/models/TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+TEXT_MODEL_URL = "https://router.huggingface.co/hf-inference/models/TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 IMAGE_MODEL_URL = "https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell"
 
 
