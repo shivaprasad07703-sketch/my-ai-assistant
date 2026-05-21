@@ -10,7 +10,7 @@ HEADERS = {"Authorization": f"Bearer {HF_TOKEN}"}
 
 # Free Open-Source Models on Hugging Face
 #/runwayml/stable-diffusion-v1-5
-TEXT_MODEL_URL = "https://router.huggingface.co/hf-inference/models/microsoft/Phi-3-mini-4k-instruct"
+TEXT_MODEL_URL = "https://router.huggingface.co/hf-inference/models/HuggingFaceH4/zephyr-7b-beta"
 IMAGE_MODEL_URL = "https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell"
 
 
